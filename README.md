@@ -3,6 +3,7 @@
 - 📡 I am a licensed Electronics Engineer, Technician, and a Microsoft Technology Associate from Tiaong, Quezon.
 - 👀 I’m interested in building a career where my skills as an engineer, a writer, and a wanna-be programmer can be used to create and make things happen.
 - 🌱 I’m currently learning Python to implement Machine & Deep Learning as an initiative after taking online specializations about the topics on Coursera.
+- 🌱 I am also learning advanced HTML, CSS, and basic JavaScript to implement Front-End Development.
 - 📫 You can reach me through my personal <a href="jessaborcer.carrd.com">portfolio</a>
 
 <!---
