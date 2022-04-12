@@ -6,7 +6,7 @@
 - 👀 I’m interested in building a career where my skills as an engineer, a writer, and a wanna-be programmer can be used to create and make things happen.<br>
 - 🌱 I’m currently learning Python to implement Machine & Deep Learning as an initiative after taking online specializations about the topics on Coursera.<br>
 - 🌱 I am also learning advanced HTML, CSS, and basic JavaScript to implement Front-End Development.<br>
-- 📫 You can reach me through my personal <a href="https://jessaborcer.carrd.co/" target="_blank">portfolio</a><br>
+- 📫 Get to know more about me on my personal <a href="https://jessaborcer.carrd.co/" target="_blank">portfolio</a><br>
   </body>
  
 <!---
